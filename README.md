@@ -145,5 +145,9 @@ Feel free to explore, fork, and contribute to this project.
 For a detailed description of the project, including objectives, key features, and testing, refer to the project documentation:
 📝 [Project Documentation](https://drive.google.com/file/d/1qvIDoM0MJwpHKnVFerWQOEEEnxfKAp0r/view?usp=sharing)
 --------------
-## *Video Link*
-For a detailed demonstration video click here: 🎥 [Video Demo]()
+## Video Link
+For a detailed demonstration video click here: 🎥 [Video Demo](https://drive.google.com/file/d/1G-sNee5bjoAte1wXMQ8urnSRvova3JL8/view?usp=sharing)
+-------------
+Conclusion:
+-----------
+Laptop Rental Service is a powerful CRM solution tailored for laptop rental businesses, utilizing Salesforce's core CRM functionalities and automation tools to drive efficiency and customer satisfaction. From streamlined booking processes to inventory management and personalized customer communication, Laptop Rental Service offers a centralized platform to optimize rental operations. By leveraging data insights, automating manual tasks, and maintaining strong customer relationships, Laptop Rental Service is designed to enhance operational efficiency, improve profitability, and ensure a seamless customer experience.
