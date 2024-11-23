@@ -1,8 +1,7 @@
-# Laptop-Rental-Management-System
 # CRM Laptop Rental Management System
 
 **Submitted By:** Rahul Ranjan Kumar  
-**Email:** rahul.ranjankumar.21@gmail.com  
+**Email:** rahul.ranjankumar.21@aot.edu.in  
 
 ## Project Overview
 
@@ -138,7 +137,7 @@ Feel free to explore, fork, and contribute to this project.
 ### Contact
 
 - **Developer:** Rahul Ranjan Kumar  
-- **Email:** rahul.ranjankumar.21@gmail.com
+- **Email:** rahul.ranjankumar.21@aot.edu.in
 -  -----
   ## *Documentation*
 
